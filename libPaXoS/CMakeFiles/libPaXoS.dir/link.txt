@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/liblibPaXoS.a  CMakeFiles/libPaXoS.dir/ObliviousDictionary.cpp.o CMakeFiles/libPaXoS.dir/gf2e_mat_solve.cpp.o
+/usr/bin/ranlib ../lib/liblibPaXoS.a
