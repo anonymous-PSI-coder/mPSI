@@ -32,8 +32,10 @@ After cloning project from git,
 3. run bOPRFmain project
  
 ##### Linux:
-1. make (requirements: `CMake`, `Make`, `g++` or similar)
-2. for test:
+1. cd ..
+2. cmake .
+3. make (requirements: `CMake`, `Make`, `g++` or similar)
+4. for test:
 	./bin/frontend.exe -u
 
 
