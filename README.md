@@ -25,7 +25,7 @@ git clone --recursive git@github.com:anonymous-PSI-coder/mPSI.git
 NOTE: If you meet problem with `all_win.ps1` or `all_linux.get` which builds boost, miracl and libOTe, please follow the more manual instructions at [`libOTe`](https://github.com/osu-crypto/libOTe). For libPaXoS, please follow the more manual instructions at [`libPaXoS`](https://github.com/asu-crypto/mPSI/tree/paxos/libPaXoS)
 
 ### Building the Project
-After cloning project from git,
+
 ##### Windows:
 1. build cryptoTools,libOTe, and libOPRF projects in order.
 2. add argument for bOPRFmain project (for example: -u)
