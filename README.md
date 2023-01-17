@@ -56,3 +56,12 @@ Compute mPSI of 5 parties, 2 dishonestly colluding, each with set size 2^12
 
 	./bin/frontend.exe -m 12 -n 5 -t 2 -p 0 & ./bin/frontend.exe -m 12 -n 5 -t 2 -p 1 & ./bin/frontend.exe -m 12 -n 5 -t 2 -p 2 & ./bin/frontend.exe -m 12 -n 5 -t 2 -p 3 & ./bin/frontend.exe -m 12 -n 5 -t 2 -p 4
 	
+## Summary
+	1. git clone --recursive git@github.com:anonymous-PSI-coder/mPSI.git
+	2. cd thirdparty/
+	3. bash all_linux.get
+	4. cd ..
+	5. cmake .
+	6. make
+	7. ./bin/frontend.exe -u
+
