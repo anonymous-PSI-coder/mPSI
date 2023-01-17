@@ -6,7 +6,7 @@ NOTE: the current code is under maintenance to integrate the stand-alone OKVS li
 ## Installations
 ### Clone project
 ```
-git clone --recursive git@github.com:zylin-crypto/mPSI.git
+git clone --recursive git@github.com:anonymous-PSI-coder/mPSI.git
 ```
 
 ### Quick Installation (Linux)
